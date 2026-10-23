@@ -1,0 +1,1 @@
+# salty-core-updater-release
